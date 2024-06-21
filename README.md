@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 Hi there! I am a 💻 working with JavaScript and currently studying Computer Science 📚 . I am always eager to learn new technologies and improve my skillset 🤓.  I have experience in both front-end and DSA 🌐 and enjoy working on projects that involve both aspects. Let's create something great together! 🤝
 
 🧐 More About Me:
-🔭   I am currently working on JS Projects.
-🌱   Following MERN Stack.
-✊   Working on C++, C, Javascript, React, and Node-JS.
+🔭   I am currently working on JS Projects.<br>
+🌱   Following MERN Stack.<br>
+✊   Working on C++, C, Javascript, React, and Node-JS.<br>
  
 💬   Ask me anything, I am always happy to help.
 📫   How to reach me: avinashjha19@outlook.com
