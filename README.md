@@ -1,25 +1,72 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=F77B00&width=435&lines=Hey+there!+I'm+Avinash Jha;Full+Stack+Developer+%7C+Problem+Solver;Welcome+to+My+Coding+World!+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-<!--
-**Avinash2912/Avinash2912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🌟 Welcome to My GitHub Universe 🌟</h1>
+<h3 align="center">Exploring ideas, one project at a time 🚀</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sachiinn05&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/> 
+  <a href="https://github.com/sachiinn05?tab=followers"><img src="https://img.shields.io/github/followers/sachiinn05?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/sachiinn05?tab=repositories"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Badge"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi there! I am a 💻 working with JavaScript and currently studying Computer Science 📚 . I am always eager to learn new technologies and improve my skillset 🤓.  I have experience in both front-end and DSA 🌐 and I enjoy working on projects that involve both aspects. Let's create something great together! 🤝
+---
 
-🧐 More About Me:
-🔭   I am currently working on JS Projects.<br>
-🌱   Following MERN Stack.<br>
-✊   Working on C++, C, Javascript, React, and Node-JS.<br>
+### 🎯 About Me
+- 🔭 *Currently working on:* Building innovative web applications and mastering *Data Structures and Algorithms*.
+- 💡 *Passionate about:* Problem-solving, coding challenges, and bringing ideas to life through technology.
+- 🌱 *Learning:* Advanced backend architecture and optimization techniques.
+- 🎯 *Focus areas:* *Full Stack Development, **Node.js, and **MongoDB*.
+- 💬 *Ask me about:* Web Development, JavaScript Frameworks, or Software Architecture.
+
+---
+
+### 🛠️ My Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,postman,git,github,react,bootstrap" alt="Tech Stack Icons" />
+</div>
+
+---
+
+### 🏆 Highlights: My Projects
+Here’s what I’ve been working on:
+
+
+
+
+---
+
+### ✨ Dynamic GitHub Widgets
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachiinn05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachiinn05&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachiinn05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+</p>
+
+-
+
+### 🌍 Connect with Me
+<p align="center">
+  <a href="mailto:avinashjha832@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/avinash-jha-46b969167/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Avinash2912"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/u/Avinash_1912/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
  
-💬   Ask me anything, I am always happy to help.<br>
-📫   How to reach me: avinashjha19@outlook.com<br>
+</p>
+
+---
+
+### 🧙 Fun Facts
+- 💡 The best way to predict the future is to create it. 
+- 🐱‍💻 *Favorite Debugging Line:* console.log('It’s working...or is it? 🤔')
+
+---
+
+### 🎉 Let’s Build Something Great Together
+> “Code is like humour. When you have to explain it, it’s bad.”
+
+Feel free to connect or explore my projects. Let’s innovate and create impactful solutions!
