@@ -6,9 +6,9 @@
 <h3 align="center">Exploring ideas, one project at a time 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachiinn05&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/> 
-  <a href="https://github.com/sachiinn05?tab=followers"><img src="https://img.shields.io/github/followers/sachiinn05?label=Followers&style=social" alt="GitHub Followers"></a>
-  <a href="https://github.com/sachiinn05?tab=repositories"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Badge"></a>
+  <img src="https://komarev.com/ghpvc/?username=Avinash2912&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/> 
+  <a href="https://github.com/Avinash2912?tab=followers"><img src="https://img.shields.io/github/followers/sachiinn05?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/Avinash2912?tab=repositories"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Badge"></a>
 </p>
 
 ---
@@ -29,18 +29,12 @@
 
 ---
 
-### 🏆 Highlights: My Projects
-Here’s what I’ve been working on:
 
-
-
-
----
 
 ### ✨ Dynamic GitHub Widgets
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachiinn05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachiinn05&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Avinash2912&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avinash2912&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
