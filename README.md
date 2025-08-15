@@ -17,8 +17,8 @@
 - 🔭 *Currently working on:* Building innovative web applications and mastering *Data Structures and Algorithms*.
 - 💡 *Passionate about:* Problem-solving, coding challenges, and bringing ideas to life through technology.
 - 🌱 *Learning:* Advanced backend architecture and optimization techniques.
-- 🎯 *Focus areas:* *Full Stack Development, **Node.js, and **MongoDB*.
-- 💬 *Ask me about:* Web Development, JavaScript Frameworks, or Software Architecture.
+- 🎯 *Focus areas:* *Full Stack Development, Node.js, and MongoDB.
+- 💬 *Ask me about:* Web Development, JavaScript Frameworks, Python.
 
 ---
 
